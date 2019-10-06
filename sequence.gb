@@ -1,0 +1,403 @@
+LOCUS       NM_183416               7800 bp    mRNA    linear   PRI 29-SEP-2019
+DEFINITION  Homo sapiens kinesin family member 1B (KIF1B), transcript variant
+            2, mRNA.
+ACCESSION   NM_183416
+VERSION     NM_183416.4
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7800)
+  AUTHORS   Evenepoel L, Helaers R, Vroonen L, Aydin S, Hamoir M, Maiter D,
+            Vikkula M and Persu A.
+  TITLE     KIF1B and NF1 are the most frequently mutated genes in
+            paraganglioma and pheochromocytoma tumors
+  JOURNAL   Endocr. Relat. Cancer 24 (8), L57-L61 (2017)
+   PUBMED   28515046
+  REMARK    GeneRIF: In conclusion, using a panel including 17 susceptibility
+            genes, we documented the presence of somatic mutations in over 50%
+            of pheochromocytomas and paragangliomas (PPGL). We confirmed the
+            high frequency of NF1 somatic mutations and identified KIF1B as the
+            second most frequently mutated gene in PPGL tissues.
+REFERENCE   2  (bases 1 to 7800)
+  AUTHORS   Su M, Guo J and Huang J.
+  TITLE     Meta-analysis of the correlation between the rs17401966
+            polymorphism in kinesin family member 1B and susceptibility to
+            hepatitis B virus related hepatocellular carcinoma
+  JOURNAL   Clin Mol Hepatol 23 (2), 138-146 (2017)
+   PUBMED   28427253
+  REMARK    GeneRIF: The rs17401966 polymorphism reduced the risk for HCC under
+            the allele, heterozygous, homozygous, and dominant models but not
+            under the additive or recessive models.
+REFERENCE   3  (bases 1 to 7800)
+  AUTHORS   Guardia CM, Farias GG, Jia R, Pu J and Bonifacino JS.
+  TITLE     BORC Functions Upstream of Kinesins 1 and 3 to Coordinate Regional
+            Movement of Lysosomes along Different Microtubule Tracks
+  JOURNAL   Cell Rep 17 (8), 1950-1961 (2016)
+   PUBMED   27851960
+  REMARK    GeneRIF: BORC and Arl8 function upstream of two structurally
+            distinct kinesin types: kinesin-1 (KIF5B) and kinesin-3 (KIF1Bbeta
+            and KIF1A).
+REFERENCE   4  (bases 1 to 7800)
+  AUTHORS   Chen JH, Wang YY, Lv WB, Gan Y, Chang W, Tian NN, Huang XH, Liu L,
+            Yu XF and Chen SD.
+  TITLE     Effects of interactions between environmental factors and KIF1B
+            genetic variants on the risk of hepatocellular carcinoma in a
+            Chinese cohort
+  JOURNAL   World J. Gastroenterol. 22 (16), 4183-4190 (2016)
+   PUBMED   27122668
+  REMARK    GeneRIF: The gene-environment interaction between the KIF1B
+            rs17401966 variant and alcohol consumption may contribute to the
+            development of hepatocellular carcinoma in Chinese individuals.
+REFERENCE   5  (bases 1 to 7800)
+  AUTHORS   Saito M, Hayashi Y, Suzuki T, Tanaka H, Hozumi I and Tsuji S.
+  TITLE     Linkage mapping of the gene for Charcot-Marie-Tooth disease type 2
+            to chromosome 1p (CMT2A) and the clinical features of CMT2A
+  JOURNAL   Neurology 49 (6), 1630-1635 (1997)
+   PUBMED   9409358
+REFERENCE   6  (bases 1 to 7800)
+  AUTHORS   Gong TL, Burmeister M and Lomax MI.
+  TITLE     The novel gene D4Mil1e maps to mouse chromosome 4 and human
+            chromosome 1p36
+  JOURNAL   Mamm. Genome 7 (10), 790-791 (1996)
+   PUBMED   8854876
+REFERENCE   7  (bases 1 to 7800)
+  AUTHORS   Nangaku M, Sato-Yoshitake R, Okada Y, Noda Y, Takemura R, Yamazaki
+            H and Hirokawa N.
+  TITLE     KIF1B, a novel microtubule plus end-directed monomeric motor
+            protein for transport of mitochondria
+  JOURNAL   Cell 79 (7), 1209-1220 (1994)
+   PUBMED   7528108
+REFERENCE   8  (bases 1 to 7800)
+  AUTHORS   Zuchner,S.
+  TITLE     Charcot-Marie-Tooth Neuropathy Type 2A
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301684
+REFERENCE   9  (bases 1 to 7800)
+  AUTHORS   Bird,T.D.
+  TITLE     Charcot-Marie-Tooth (CMT) Hereditary Neuropathy Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301532
+REFERENCE   10 (bases 1 to 7800)
+  AUTHORS   Bird,T.D.
+  TITLE     Charcot-Marie-Tooth Neuropathy Type 2
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301462
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL358013.19, DA774937.1,
+            BF940695.1, AB040881.2 and BU626971.1.
+            On Jun 2, 2019 this sequence version replaced NM_183416.3.
+            
+            Summary: This gene encodes a motor protein that transports
+            mitochondria and synaptic vesicle precursors. Mutations in this
+            gene cause Charcot-Marie-Tooth disease, type 2A1. [provided by
+            RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (2) contains a different segment
+            for its 3' coding region and 3' UTR, compared to variant 1. The
+            resulting protein (isoform alpha) has a shorter and distinct
+            C-terminus compared to isoform b.
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            transcript and genomic sequence to make the sequence consistent
+            with the reference genome assembly. The genomic coordinates used
+            for the transcript record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AY139835.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-136               AL358013.19        25212-25347
+            137-252             DA774937.1         1-116
+            253-374             BF940695.1         50-171
+            375-5960            AB040881.2         298-5883
+            5961-7599           AL358013.19        121400-123038
+            7600-7800           BU626971.1         17-217              c
+FEATURES             Location/Qualifiers
+     source          1..7800
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p36.22"
+     gene            1..7800
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /note="kinesin family member 1B"
+                     /db_xref="GeneID:23095"
+                     /db_xref="HGNC:HGNC:16636"
+                     /db_xref="MIM:605995"
+     exon            1..309
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    221..223
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /note="upstream in-frame stop codon"
+     exon            310..494
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             389..3850
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /note="isoform alpha is encoded by transcript variant 2;
+                     kinesin superfamily protein KIF1B; kinesin-like protein
+                     KIF1B"
+                     /codon_start=1
+                     /product="kinesin-like protein KIF1B isoform alpha"
+                     /protein_id="NP_904325.2"
+                     /db_xref="CCDS:CCDS112.1"
+                     /db_xref="GeneID:23095"
+                     /db_xref="HGNC:HGNC:16636"
+                     /db_xref="MIM:605995"
+                     /translation="MSGASVKVAVRVRPFNSRETSKESKCIIQMQGNSTSIINPKNPK
+                     EAPKSFSFDYSYWSHTSPEDPCFASQNRVYNDIGKEMLLHAFEGYNVCIFAYGQTGAG
+                     KSYTMMGKQEESQAGIIPQLCEELFEKINDNCNEEMSYSVEVSYMEIYCERVRDLLNP
+                     KNKGNLRVREHPLLGPYVEDLSKLAVTSYTDIADLMDAGNKARTVAATNMNETSSRSH
+                     AVFTIVFTQKKHDNETNLSTEKVSKISLVDLAGSERADSTGAKGTRLKEGANINKSLT
+                     TLGKVISALAEVSKKKKKTDFIPYRDSVLTWLLRENLGGNSRTAMVAALSPADINYDE
+                     TLSTLRYADRAKQIKCNAVINEDPNAKLVRELKEEVTRLKDLLRAQGLGDIIDTSMGS
+                     LTSSPSSCSLSSQVGLTSVTSIQERIMSTPGGEEAIERLKESEKIIAELNETWEEKLR
+                     KTEAIRMEREALLAEMGVAIREDGGTLGVFSPKKTPHLVNLNEDPLMSECLLYYIKDG
+                     ITRVGQADAERRQDIVLSGAHIKEEHCIFRSERSNSGEVIVTLEPCERSETYVNGKRV
+                     SQPVQLRSGNRIIMGKNHVFRFNHPEQARAEREKTPSAETPSEPVDWTFAQRELLEKQ
+                     GIDMKQEMEKRLQEMEILYKKEKEEADLLLEQQRLDADSDSGDDSDKRSCEESWKLIT
+                     SLREKLPPSKLQTIVKKCGLPSSGKKREPIKMYQIPQRRRLSKDSKWVTISDLKIQAV
+                     KEICYEVALNDFRHSRQEIEALAIVKMKELCAMYGKKDPNERDSWRAVARDVWDTVGV
+                     GDEKIEDVMATGKGSTDVDDLKVHIDKLEDILQEVKKQNNMKDEEIKVLRNKMLKMEK
+                     VLPLIGSQEQKSPGSHKAKEPVGAGVSSTSENNVSKGDNGELAKEERVSQLMNGDPAF
+                     RRGRLRWMRQEQIRFKNLQQQEITKQLRRQNVPHRFIPPENRKPRFPFKSNPKHRNSW
+                     SPGTHIIITEDEVIELRIPKDDEARKGNKEESQEKGGKGAFKDPQFPWGSQGMRSQDH
+                     IQVSKQHINNQQQPPQLRWRSNSLNNGQPKSTRCQASASAESLNSHSGHPTADVQTFQ
+                     AKRHIHQHRQSYCNYNTGGQLEGNAATSYQKQTDKPSHCSQFVTPPRMRRQFSAPNLK
+                     AGRETTV"
+     exon            495..571
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            572..751
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            752..817
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            818..996
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            997..1108
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1109..1186
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1187..1252
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1253..1328
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1329..1407
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1408..1550
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1551..1684
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1685..1764
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1765..1840
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1841..1920
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1921..2027
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2028..2111
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2112..2292
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2293..2365
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2366..7800
+                     /gene="KIF1B"
+                     /gene_synonym="CMT2; CMT2A; CMT2A1; HMSNII; KLP; NBLST1"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 agtgtgacgg cagcggtcct gggaggcgcc cgcgcgcgtc ggagcagctc cccgtcctcc
+       61 gcagccgtca ccgccggccg tcgccgcgcc ctggcctccc gcactcgcgc actcctgtcc
+      121 gccgcccacc gcccacctcc cacctcgatg cggtgccggg ctgctgcgtg atggggctgc
+      181 ggagcggcgc cctgcggctc gcggcggccg ctgctcgcgc tgaggtgcgt cggtgcccgg
+      241 ccccccgcgc ccccgcgcgc cgcggctcct gttgacccgg tccgcccgtc ggtctgcagc
+      301 gcggctgagg aaacttggct gtaacttcaa aagaagattt gattctttat ttctggactg
+      361 catatatata tataacaagg ccattaaaat gtcgggagcc tcagtgaagg tggctgtccg
+      421 ggtaaggccc ttcaattctc gagagaccag caaggaatcc aaatgcatca ttcagatgca
+      481 aggcaactcg accagtatta ttaacccaaa gaatccaaag gaagctccaa agtccttcag
+      541 cttcgactat tcctactggt ctcatacctc acccgaagat ccctgttttg catctcaaaa
+      601 ccgtgtgtac aatgacattg gcaaggaaat gctcttacac gcctttgagg gatataatgt
+      661 ctgtattttt gcctatgggc agactggtgc tggaaaatct tatacaatga tgggtaaaca
+      721 agaagaaagc caggctggca tcattccaca gttatgtgaa gaactttttg agaaaatcaa
+      781 tgacaactgt aatgaagaaa tgtcttactc tgtagaggtg agctacatgg aaatttactg
+      841 tgaaagagta cgagatttgc tgaatccaaa aaacaagggt aatttgcgtg tgcgtgaaca
+      901 cccacttctt ggaccctatg tggaggatct gtccaagttg gcagttactt cctacacaga
+      961 cattgctgac ctcatggatg ctgggaacaa agccaggaca gtggcagcta caaacatgaa
+     1021 tgaaacaagt agccgttccc acgctgtgtt tacgattgtt ttcacccaga agaaacacga
+     1081 taatgagacc aacctttcca ctgagaaggt cagtaaaatc agcttggtgg atctagcagg
+     1141 aagtgaacga gctgattcaa ctggtgccaa agggactcga ttaaaggaag gagcaaatat
+     1201 taataagtct cttacaactt tgggcaaagt catttcagcc ttggccgagg tgagtaaaaa
+     1261 gaagaagaaa acagatttta ttccctacag ggattctgta cttacttggc tccttcgaga
+     1321 aaatttaggt ggcaattctc ggactgcaat ggttgctgct ctgagccccg cggatatcaa
+     1381 ctacgatgag actttgagca ctctgagata tgcagatcgt gcaaaacaaa ttaaatgcaa
+     1441 tgctgttatc aatgaggacc ccaatgccaa actggttcgt gaattaaagg aggaggtgac
+     1501 acggctgaag gaccttcttc gtgctcaggg cctgggagat attattgata catccatggg
+     1561 gtccctcact tcatccccat cttcctgctc actcagtagt caggtgggct tgacgtctgt
+     1621 gaccagtatt caagagagga tcatgtctac acctggagga gaggaagcta ttgaacgttt
+     1681 aaaggaatca gagaagatca ttgctgagtt gaatgaaact tgggaagaga agcttcgtaa
+     1741 aacagaggcc atcagaatgg agagagaggc tttgttggct gagatgggag ttgccattcg
+     1801 ggaagatgga ggaaccctag gggttttctc acctaaaaag accccacatc ttgttaacct
+     1861 caatgaagac ccactaatgt ctgagtgcct actttattac atcaaagatg gaattacaag
+     1921 ggttggccaa gcagatgctg agcggcgcca ggacatagtg ctgagcgggg ctcacattaa
+     1981 agaagagcat tgtatcttcc ggagtgagag aagcaacagc ggggaagtta tcgtgacctt
+     2041 agagccctgt gagcgctcag aaacctacgt aaatggcaag agggtgtccc agcctgttca
+     2101 gctgcgctca ggaaaccgta tcatcatggg taaaaaccat gttttccgct ttaaccaccc
+     2161 ggaacaagca cgagctgagc gagagaagac tccttctgct gagaccccct ctgagcctgt
+     2221 ggactggaca tttgcccaga gggagcttct ggaaaaacaa ggaattgata tgaaacaaga
+     2281 gatggagaaa aggctacagg aaatggagat cttatacaaa aaggagaagg aagaagcaga
+     2341 tcttcttttg gagcagcaga gactggacgc ggattctgat agcggggacg attctgacaa
+     2401 gaggtcgtgt gaagagagct ggaaactgat tacttctctg agagaaaagc tacctcccag
+     2461 caagttgcaa accattgtta aaaaatgtgg cctcccaagc agtgggaaga aacgtgaacc
+     2521 aattaaaatg tatcagatac cccaaagaag gcgcttgagt aaagattcca agtgggtcac
+     2581 aatctcagat cttaaaattc aggctgtcaa agagatttgc tatgaggttg ctctcaatga
+     2641 cttcaggcac agtcggcagg agattgaagc cctggccatt gtcaagatga aggagctttg
+     2701 tgccatgtat ggcaagaaag accccaatga gcgggactcc tggagggcag tggccaggga
+     2761 cgtctgggat accgtcggtg ttggggatga gaagatcgaa gacgtcatgg ccactgggaa
+     2821 aggcagcact gatgtagatg acctcaaggt tcatatagac aagctggaag atattttgca
+     2881 agaagtcaaa aagcaaaata acatgaaaga cgaggagata aaagtcttaa gaaataaaat
+     2941 gctcaaaatg gaaaaagtct tgccactgat cggatctcag gaacagaaaa gcccaggaag
+     3001 ccacaaagca aaggagcctg ttggtgctgg tgttagtagc acctctgaga ataatgtaag
+     3061 taaaggagac aatggagaac ttgcaaaaga agaacgtgtt tcccagctga tgaatgggga
+     3121 tccagctttt agacgtggac gtctgcgctg gatgaggcaa gagcaaattc ggtttaagaa
+     3181 cttgcaacag caggagataa caaagcagct tcgtcggcag aatgtacctc ataggttcat
+     3241 ccctcctgag aaccggaagc cccgcttccc ctttaagagc aaccctaaac acagaaactc
+     3301 ttggagtcct gggacacata tcatcataac agaagatgag gttatagagc ttaggattcc
+     3361 aaaagacgat gaagcaagga aagggaataa agaagagagc caagaaaaag ggggtaaagg
+     3421 agcttttaag gatccccagt ttccatgggg ctctcaagga atgagaagtc aagatcacat
+     3481 ccaagttagc aagcagcaca ttaataatca gcaacagcca cctcaactac gttggagaag
+     3541 caattctctc aataatggcc agccgaaaag tacgcgctgc caggcatctg cctccgcgga
+     3601 gtcattaaac tcccacagtg gtcaccccac tgctgatgta cagactttcc aggcaaagcg
+     3661 ccatattcat caacaccgtc agtcttactg taattataac actggaggtc agttagaggg
+     3721 caatgcagcc acttcctatc agaagcagac tgacaaaccc agccactgta gccagtttgt
+     3781 gacacctccg cggatgagga gacagttctc agcacccaat ctcaaagctg gtcgagaaac
+     3841 cacagtataa atcagttact ggacaaactt gaaatcatgg tggaagaaac agacagtgtt
+     3901 agctcatgat ttgatttggt tctacctttg gccttgagtt cttattattt acattataaa
+     3961 tattaactgg ttttatattg ttaagacaaa acactggtaa aagtttcaac acctcccttt
+     4021 tgcttgtata ccataaatgg gcagtttctg aaattttgga taaagcatca agaactcctt
+     4081 tttctgaaac gttcctcctt ttttagtgcc taattaatat acttacttac acagacttgt
+     4141 cccatcttga tgtaagtttg ttatgttttt ataatgccta taaattaatc tgacatccag
+     4201 aaagacctgc ctcttagttt atgcagacat tcaaaaggag aatttgataa gcagaattaa
+     4261 atgtctgtta ttcataaatg ttagaaattg gtttaaaaat aataacatgc aactgggtgg
+     4321 gcacagcttt ggatttctca tccacgtctg ttcccttctt taaatatgat tagaattttc
+     4381 gtaagccaaa actaaaggtc ttcaaacata tcttgcaata catagctttg catcttccac
+     4441 acaacttcca cgtcttcttt tattctgtat tttacaaaaa actcatataa tggttttttc
+     4501 ttttgaatgt atcagaatat gtatgaaatt tgtcatatca gaatctataa attggcactg
+     4561 tgtctgggat tctgtttgtg gtttgcattt tgaagttcaa tgtatcattt gacacacatg
+     4621 cacacaaagt gaactattca ccaaaatcat gccaacagaa ataccaacaa aaaacttgtg
+     4681 tagcttgtaa ggaggttatt tggcttgaga gggaagaggt gggacagaca tgggggacaa
+     4741 agctacagca tatggctctg tggtgctgct tttttccaat agttgatgaa atagtgaaat
+     4801 aaaagttaac tttggttggg cttggaataa aggagatgat acataataaa ctattctttg
+     4861 gttagcatta gtaatgcttg tagacactca aacaaggaag gcgaagtcct gatgatgatt
+     4921 tattgtatca atacctcatt ttatttggtt gtggtctcag tttgcctcac tggagaatcc
+     4981 actaagaaag atggatttta atgggaagaa aagaattatt ttctacatcg ttcctcatct
+     5041 cttgagtttg tcaaaaagtt ttctaagagg cagtgtgaag agccagagat gtccgaaatt
+     5101 gcctgacttc atgttttgga agattcctaa gtcacatgaa atcatctatc aaacacttgt
+     5161 cttccaaacg gtgtgaaaaa ctacagccaa gatagcagtt agcattcaag gaagccttaa
+     5221 agattgtgat tatgtttttt tttcctttgc gtgtgggcac tatgctttat tagaacacat
+     5281 tatttttaat catagtattt tttctttgcc tctaagaaaa tactttctta atgctcagaa
+     5341 agttgcttcc aattaatgtt tttttcccct taaaaagaga agctttgaga gatatttttg
+     5401 ctttcatagc tagaacagtt gaagtcttca actgaggttt tatagcagat tagacatggg
+     5461 taaatgatgt ctgtaatggg ttgagttact gagatgacaa tctcctgtgc catttggttt
+     5521 gaatgtactt gataggctgc ttcaaatcag tcacttcaat gcattttgtg taaacccagt
+     5581 tgtccttttt tattcctctt tagacataaa tgtgctaact attcctttct atacacaatt
+     5641 tattttctaa gattaaaaat aataattgct aggtttggtg gcacatgcgt acagccccag
+     5701 ctacttagga ggctgaagca ggaggatccc tagagcccag gagttctggg ctgtggtaca
+     5761 ctatgccagt tgggtgtaag tttggcatca atatggtgat gtccctgaag caggaaacca
+     5821 caaacttgca tcaggacggg tgaacccagc ccaggttgga aatggagcag gccaaaactc
+     5881 ccaggctgat cagtaatggg atcttgccta tgaatagcca gtgcactgca gccaggacaa
+     5941 cagagtgaga acctgtcttt aaaaaaaaaa aaaaaaaaaa aaaaaaaggt aatatttatt
+     6001 atattattca ggtttcaact ctgtagcaaa aatgggctct catttcccta acttgagata
+     6061 acatagggta ggtccatata ttttcattct tacagtggtc ttttcatggg agtgaatgag
+     6121 ttactctcca ctggtgatta ggtaatactg tagaatgaag agttgtataa tatattcatt
+     6181 tacagctgtg gattgtggta aggactatgt ccacagtgat attccaaaga attgggttta
+     6241 tatttgtgct tcatctgtta atcccaggtg tcctcatgtt gctgaaatat ttagatagct
+     6301 aaaatatccc ttaatttcac agatgaccag gaagaaatta accaaggttt tattgactgc
+     6361 catgtatgtc ccatgatgca tttctgagca aatgcttatc ctagagaata actctgtatg
+     6421 aataaaattg cttaattgag tctcttacta aataagtaac tagtgccatg cttttgtgag
+     6481 ctcttggtat ggcccatatt actttgtttt ttgtttttgt tattgttgtt ttgtgatagt
+     6541 cttgctctgt cgcccaggct gcagtgcagt ggcacaatct cagctcactg caacctctgc
+     6601 ctcctgggtt caagcaattc tcctgtctca gcctcctggg tagctgggac tacaggtgca
+     6661 tgccaccatg cctggctaac ttttgtattt ttagtagaga cagggtttca ccacgttggt
+     6721 caggctggtc tcgaattcct aacctcaggt gatccacctg ccttggcctc ccaaagtgct
+     6781 gagattacag gcgtgagcca ccgcgcctgg cctgtttgtt tttttaacat gatttttctc
+     6841 taagcttaaa taccacaagg ccaaagagaa atggtcataa tttaaaccat tattatattg
+     6901 ttgaggtatc cctagctatt attatagcaa agtgggaaaa aagtgtttat tctattgaag
+     6961 ttatgtaatg atccgacatt aatgggaata tagaggagtc ctaattaatt ggtataattt
+     7021 cacaaagcgg aatggtattc cttggagagt taaagacatt ctctttagta agtgtaaacc
+     7081 aaagggcatt ttctttattc ctgcttctaa ttccttctag cccagtgaat tatttctctt
+     7141 ttcactggta atgtgatgaa tgggaattgt ttattacatt gaagtgactt gaagtgacct
+     7201 tttgtgcttt aggtgcaggt tgacactgaa aaaaaaacaa aacactgaat ttttcacacc
+     7261 tatgtctgca ttaaaggctg ttttactacc ggaagttaca tagacttcct gcagtcagct
+     7321 gctgtgcccc agtgccttac tggtcctttg tagatttgcc ttaatgattt gtacaaatga
+     7381 ctgggaggcg gggatgctgc ctgtgtcctg gtgaacctta atgaaggggc cgtcttaggc
+     7441 acagtgcaaa acaagcattt gtcctgtact gttagagcca aaattgtgat gagcaatact
+     7501 gataattgtc cagtttatgt catctttccc agattttaaa atctgttcta gatattctta
+     7561 gcttgaacca cttttgattg tgaaatgtat taggtgttgt cccattatta ctgtaaaatg
+     7621 aagttttgaa tcttcttgtt aataaactgt ggatttcccc tctcaatttc ttaaacaaca
+     7681 acaaaaaaat gcttgaagat tgtctttgag tgtaagatct gccttttcag aaagggagtg
+     7741 ttagtttgta atgttaaaaa ataaagacct cattcaataa aagttgaagt catcttttaa
+//
+
