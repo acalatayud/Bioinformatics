@@ -22,7 +22,7 @@ public class BlastReporter {
             props.setBlastDatabase("swissprot");
 
             final NCBIQBlastOutputProperties outputProps = new NCBIQBlastOutputProperties();
-            outputProps.setOutputFormat(BlastOutputFormatEnum.Text);
+            //outputProps.setOutputFormat(BlastOutputFormatEnum.Text);
 
             for (final ProteinSequence sequence : sequences.values()) {
                 final String rid = service.sendAlignmentRequest(sequence.getSequenceAsString(), props);

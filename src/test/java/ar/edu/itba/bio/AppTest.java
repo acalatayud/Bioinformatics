@@ -17,7 +17,8 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue(GenBankTranslator.translate(new File("./sequence.gb"), "o"));
-        assertTrue(BlastReporter.execute(new File("./o.fas"), "o2"));
+        //assertTrue(GenBankTranslator.translate(new File("./sequence.gb"), "o"));
+        //assertTrue(BlastReporter.execute(new File("./o.fas"), "o2"));
+        assertTrue(BlastHitParser.getHits(new File("o2_NM_183416 - FRAME TWO.out"), "homo", true));
     }
 }
