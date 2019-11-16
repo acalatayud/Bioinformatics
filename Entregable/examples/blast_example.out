@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.10.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>swissprot_v5</BlastOutput_db>
+  <BlastOutput_query-ID>Query_23651</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>2599</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_23651</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>2599</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>sp|Q96CB5.2|</Hit_id>
+  <Hit_def>RecName: Full=Putative uncharacterized protein C8orf44 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q96CB5</Hit_accession>
+  <Hit_len>159</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>76.6406</Hsp_bit-score>
+      <Hsp_score>187</Hsp_score>
+      <Hsp_evalue>1.66725e-14</Hsp_evalue>
+      <Hsp_query-from>330</Hsp_query-from>
+      <Hsp_query-to>377</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>GQARWLTPVISALWEAKAGGSPEVRNSRPA*PTW*NPVSTKNTKVSQA</Hsp_qseq>
+      <Hsp_hseq>GRARWLMPVIPALWEAKAGRSPEVRSSKPAWPTWRNPIFTKNTKISQV</Hsp_hseq>
+      <Hsp_midline>G+ARWL PVI ALWEAKAG SPEVR+S+PA PTW NP+ TKNTK+SQ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>sp|Q9P1C3.1|</Hit_id>
+  <Hit_def>RecName: Full=Putative uncharacterized protein PRO2829; Flags: Precursor [Homo sapiens]</Hit_def>
+  <Hit_accession>Q9P1C3</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>52.7582</Hsp_bit-score>
+      <Hsp_score>125</Hsp_score>
+      <Hsp_evalue>1.86322e-07</Hsp_evalue>
+      <Hsp_query-from>323</Hsp_query-from>
+      <Hsp_query-to>363</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>41</Hsp_align-len>
+      <Hsp_qseq>IMLKKQTGQARWLTPVISALWEAKAGGSPEVRNSRPA*PTW</Hsp_qseq>
+      <Hsp_hseq>LLKKKILGRVWWLMPVVLALWEAEVGGSLEVRSLRPAWPTW</Hsp_hseq>
+      <Hsp_midline>++ KK  G+  WL PV+ ALWEA+ GGS EVR+ RPA PTW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>sp|Q9NRJ1.1|</Hit_id>
+  <Hit_def>RecName: Full=Protein MOST-1 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q9NRJ1</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.9878</Hsp_bit-score>
+      <Hsp_score>123</Hsp_score>
+      <Hsp_evalue>1.37798e-06</Hsp_evalue>
+      <Hsp_query-from>332</Hsp_query-from>
+      <Hsp_query-to>363</Hsp_query-to>
+      <Hsp_hit-from>68</Hsp_hit-from>
+      <Hsp_hit-to>99</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>ARWLTPVISALWEAKAGGSPEVRNSRPA*PTW</Hsp_qseq>
+      <Hsp_hseq>ARWLTPVIPALWKAEAGGLPELRSSRPAWTTW</Hsp_hseq>
+      <Hsp_midline>ARWLTPVI ALW+A+AGG PE+R+SRPA  TW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>sp|Q7Z5D8.1|</Hit_id>
+  <Hit_def>RecName: Full=NANOG neighbor homeobox; AltName: Full=Homeobox protein C14 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q7Z5D8</Hit_accession>
+  <Hit_len>188</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>36.965</Hsp_bit-score>
+      <Hsp_score>84</Hsp_score>
+      <Hsp_evalue>1.05493</Hsp_evalue>
+      <Hsp_query-from>331</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>16</Hsp_identity>
+      <Hsp_positive>18</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>20</Hsp_align-len>
+      <Hsp_qseq>QARWLTPVISALWEAKAGGS</Hsp_qseq>
+      <Hsp_hseq>RARWLTPVIPALWEAEAGRS</Hsp_hseq>
+      <Hsp_midline>+ARWLTPVI ALWEA+AG S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>sp|Q2RNZ9.1|</Hit_id>
+  <Hit_def>RecName: Full=tRNA pseudouridine synthase A; AltName: Full=tRNA pseudouridine(38-40) synthase; AltName: Full=tRNA pseudouridylate synthase I; AltName: Full=tRNA-uridine isomerase I [Rhodospirillum rubrum ATCC 11170]</Hit_def>
+  <Hit_accession>Q2RNZ9</Hit_accession>
+  <Hit_len>278</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.7354</Hsp_bit-score>
+      <Hsp_score>86</Hsp_score>
+      <Hsp_evalue>1.13456</Hsp_evalue>
+      <Hsp_query-from>2553</Hsp_query-from>
+      <Hsp_query-to>2597</Hsp_query-to>
+      <Hsp_hit-from>207</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>VGGGRWAADRSARVREARARRRPAVTAAEDGELLRRARAPPRTAA</Hsp_qseq>
+      <Hsp_hseq>VGDGRWTADRLRAALEACDRSAAGPTAPPDGLYFLRVRFPGETAA</Hsp_hseq>
+      <Hsp_midline>VG GRW ADR     EA  R     TA  DG    R R P  TAA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>sp|K7EIQ3.1|</Hit_id>
+  <Hit_def>RecName: Full=Uncharacterized protein ZNF561-AS1; AltName: Full=ZNF561 antisense RNA 1; AltName: Full=ZNF561 antisense gene protein 1 [Homo sapiens]</Hit_def>
+  <Hit_accession>K7EIQ3</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>34.6538</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.94014</Hsp_evalue>
+      <Hsp_query-from>330</Hsp_query-from>
+      <Hsp_query-to>347</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>32</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>16</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>18</Hsp_align-len>
+      <Hsp_qseq>GQARWLTPVISALWEAKA</Hsp_qseq>
+      <Hsp_hseq>GRAQWLTPVIPALWEAKG</Hsp_hseq>
+      <Hsp_midline>G+A+WLTPVI ALWEAK </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>sp|Q96NF6.1|</Hit_id>
+  <Hit_def>RecName: Full=Putative uncharacterized protein C8orf49 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q96NF6</Hit_accession>
+  <Hit_len>230</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.8094</Hsp_bit-score>
+      <Hsp_score>81</Hsp_score>
+      <Hsp_evalue>3.44454</Hsp_evalue>
+      <Hsp_query-from>373</Hsp_query-from>
+      <Hsp_query-to>395</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>33</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>13</Hsp_identity>
+      <Hsp_positive>17</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>KVSQAWWHAPVVPATQEAETGEL</Hsp_qseq>
+      <Hsp_hseq>KISRVWWRLPVIPATREAEDNRL</Hsp_hseq>
+      <Hsp_midline>K+S+ WW  PV+PAT+EAE   L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>473341</Statistics_db-num>
+      <Statistics_db-len>178865978</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
