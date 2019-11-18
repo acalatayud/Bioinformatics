@@ -19,7 +19,7 @@ public class BlastReporter {
 
             final NCBIQBlastAlignmentProperties props = new NCBIQBlastAlignmentProperties();
             props.setBlastProgram(BlastProgramEnum.blastp);
-            props.setBlastDatabase("swissprot");
+            props.setBlastDatabase("nr");
 
             final NCBIQBlastOutputProperties outputProps = new NCBIQBlastOutputProperties();
             //outputProps.setOutputFormat(BlastOutputFormatEnum.Text);

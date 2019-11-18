@@ -1,0 +1,266 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+NM_183416           V*RQRSWEAPARVGAAPRPPQPSPPAVAAPWPPALAHSCPPPTAHLPPRCGAGLLRDGAA	59
+NP_001191820.1      ------------------------------------------------------------	0
+XP_027452175.1      ------------------------------------------------------------	0
+XP_025711464.1      ------------------------------------------------------------	0
+                                                                                
+
+NM_183416           ERRPAARGGRCSR*GASVPGPPRPRAPRLLLTRSARRSAARLRKLGCNFKRRFDSLFLDC	118
+NP_001191820.1      ------------------------------------------------------------	0
+XP_027452175.1      ------------------------------------------------------------	0
+XP_025711464.1      ------------------------------------------------------------	0
+                                                                                
+
+NM_183416           IYIYNKAIKMSGASVKVAVRVRPFNSRETSKESKCIIQMQGNSTSIINPKNPKEAPKSFS	178
+NP_001191820.1      ---------MSGASVKVAVRVRPFNSRETSKESKCIIQMQGNSTSIINPKNPKEAPKSFS	51
+XP_027452175.1      ---------MSGASVKVAVRVRPFNSRETSKESKCIIQMQGNSTSIINPKNPKEAPKSFS	51
+XP_025711464.1      ---------MSGASVKVAVRVRPFNSRETSKESKCIIQMQGNSTSIINPKNPKEAPKSFS	51
+                             ***************************************************
+
+NM_183416           FDYSYWSHTSPEDPCFASQNRVYNDIGKEMLLHAFEGYNVCIFAYGQTGAGKSYTMMGKQ	238
+NP_001191820.1      FDYSYWSHTSPEDPCFASQNRVYNDIGKEMLLHAFEGYNVCIFAYGQTGAGKSYTMMGKQ	111
+XP_027452175.1      FDYSYWSHTSPEDPCFASQNRVYNDIGKEMLLHAFEGYNVCIFAYGQTGAGKSYTMMGKQ	111
+XP_025711464.1      FDYSYWSHTSPEDPCFASQNRVYNDIGKEMLLHAFEGYNVCIFAYGQTGAGKSYTMMGKQ	111
+                    ************************************************************
+
+NM_183416           EESQAGIIPQLCEELFEKINDNCNEEMSYSVEVSYMEIYCERVRDLLNPKNKGNLRVREH	298
+NP_001191820.1      EESQAGIIPQLCEELFEKINDNCNEEMSYSVEVSYMEIYCERVRDLLNPKNKGNLRVREH	171
+XP_027452175.1      EESQAGIIPQLCEELFEKINDNCNEEMSYSVEVSYMEIYCERVRDLLNPKNKGHLRVREH	171
+XP_025711464.1      EESQAGIIPQLCEELFEKINDNCNEEMSYSVEVSYMEIYCERVRDLLNPKNKGHLRVREH	171
+                    *****************************************************:******
+
+NM_183416           PLLGPYVEDLSKLAVTSYTDIADLMDAGNKARTVAATNMNETSSRSHAVFTIVFTQKKHD	358
+NP_001191820.1      PLLGPYVEDLSKLAVTSYTDIADLMDAGNKARTVAATNMNETSSRSHAVFTIVFTQKKHD	231
+XP_027452175.1      PLLGPYVEDLSKLAVTSYTDIADLMDAGNKARTVAATNMNETSSRSHAVFTIVFTQKKHD	231
+XP_025711464.1      PLLGPYVEDLSKLAVTSYTDIADLMDAGNKARTVAATNMNETSSRSHAVFTIVFTQKKHD	231
+                    ************************************************************
+
+NM_183416           NETNLSTEKVSKISLVDLAGSERADSTGAKGTRLKEGANINKSLTTLGKVISALAEVSKK	418
+NP_001191820.1      NETNLSTEKVSKISLVDLAGSERADSTGAKGTRLKEGANINKSLTTLGKVISALAEVSKK	291
+XP_027452175.1      TETNLSTEKVSKISLVDLAGSERADSTGAKGTRLKEGANINKSLTTLGKVISALAEVSKK	291
+XP_025711464.1      TETNLSTEKVSKISLVDLAGSERADSTGAKGTRLKEGANINKSLTTLGKVISALAEVSKK	291
+                    .***********************************************************
+
+NM_183416           KKKTDFIPYRDSVLTWLLRENLGGNSRTAMVAALSPADINYDETLSTLRYADRAKQIKCN	478
+NP_001191820.1      KKKTDFIPYRDSVLTWLLRENLGGNSRTAMVAALSPADINYDETLSTLRYADRAKQIKCN	351
+XP_027452175.1      KKKTDFIPYRDSVLTWLLRENLGGNSRTAMVAALSPADINYDETLSTLRYADRAKQIKCN	351
+XP_025711464.1      KKKTDFIPYRDSVLTWLLRENLGGNSRTAMVAALSPADINYDETLSTLRYADRAKQIKCN	351
+                    ************************************************************
+
+NM_183416           AVINEDPNAKLVRELKEEVTRLKDLLRAQGLGDIIDTSMGSLTSSPSSCSLSSQVGLTSV	538
+NP_001191820.1      AVINEDPNAKLVRELKEEVTRLKDLLRAQGLGDIIDTSMGSLTSSPSSCSLSSQVGLTSV	411
+XP_027452175.1      AVINEDPNAKLVRELKEEVTRLKDLLRAQGLGDIIDTSMGSLTSSPSSCSLNSQVGLTSV	411
+XP_025711464.1      AVINEDPNAKLVRELKEEVTRLKDLLRAQGLGDIIDTSMGSLTSSPSSCSLNSQVGLTSV	411
+                    ***************************************************.********
+
+NM_183416           TSIQERIMSTPGGEEAIERLKESEKIIAELNETWEEKLRKTEAIRMEREALLAEMGVAIR	598
+NP_001191820.1      TSIQERIMSTPGGEEAIERLKESEKIIAELNETWEEKLRKTEAIRMEREALLAEMGVAIR	471
+XP_027452175.1      TSIQERIMSTPGGEEAIERLKESEKIIAELNETWEEKLRKTEAIRMEREALLAEMGVAIR	471
+XP_025711464.1      TSIQERIMSTPGGEEAIERLKESEKIIAELNETWEEKLRKTEAIRMEREALLAEMGVAIR	471
+                    ************************************************************
+
+NM_183416           EDGGTLGVFSPKKTPHLVNLNEDPLMSECLLYYIKDGITRVGQADAERRQDIVLSGAHIK	658
+NP_001191820.1      EDGGTLGVFSPKKTPHLVNLNEDPLMSECLLYYIKDGITRVGQADAERRQDIVLSGAHIK	531
+XP_027452175.1      EDGGTLGVFSPKKTPHLVNLNEDPLMSECLLYYIKDGITRVGQADAERRQDIVLSGAHIQ	531
+XP_025711464.1      EDGGTLGVFSPKKTPHLVNLNEDPLMSECLLYYIKDGITRVGQADAERRQDIVLSGAHIQ	531
+                    ***********************************************************:
+
+NM_183416           EEHCIFRSERSNSGEVIVTLEPCERSETYVNGKRVSQPVQLRSGNRIIMGKNHVFRFNHP	718
+NP_001191820.1      EEHCIFRSERSNSGEVIVTLEPCERSETYVNGKRVSQPVQLRSGNRIIMGKNHVFRFNHP	591
+XP_027452175.1      EEHCIFRSERNNSGDVIVTLEPCERSETYVNGKRVAQPVQLRSGNRIIMGKNHVFRFNHP	591
+XP_025711464.1      EEHCIFRSERNNSGDVIVTLEPCERSETYVNGKRVAQPVQLRSGNRIIMGKNHVFRFNHP	591
+                    **********.***:********************:************************
+
+NM_183416           EQARAEREKTPSAETPSEPVDWTFAQRELLEKQGIDMKQEMEKRLQEMEILYKKEKEEAD	778
+NP_001191820.1      EQARAEREKTPSAETPSEPVDWTFAQRELLEKQGIDMKQEMEKRLQEMEILYKKEKEEAD	651
+XP_027452175.1      EQARAEREKTPSAETPSEPVDWTFAQRELLEKQGIDMKQEMEKRLQEMEILYKKEKEEAD	651
+XP_025711464.1      EQARAEREKTPSAETPSEPVDWTFAQRELLEKQGIDMKQEMEKRLQEMEILYKKEKEEAD	651
+                    ************************************************************
+
+NM_183416           LLLEQQRLDADSDSGDDSDKRSCEESWKLITSLREKLPPSKLQTIVKKCGLPSSGKKREP	838
+NP_001191820.1      LLLEQQRLDADSDSGDDSDKRSCEESWKLITSLREKLPPSKLQTIVKKCGLPSSGKKREP	711
+XP_027452175.1      LLLEQQRLDADSDSGDDSDKRSCEESWKLITSLREKLPPSKLQTIVKKCGLPSSGKKREP	711
+XP_025711464.1      LLLEQQRLDADSDSGDDSDKRSCEESWKLITSLREKLPPSKLQTIVKKCGLPSSGKKREP	711
+                    ************************************************************
+
+NM_183416           IKMYQIPQRRRLSKDSKWVTISDLKIQAVKEICYEVALNDFRHSRQEIEALAIVKMKELC	898
+NP_001191820.1      IKMYQIPQRRRLSKDSKWVTISDLKIQAVKEICYEVALNDFRHSRQEIEALAIVKMKELC	771
+XP_027452175.1      IKMYQIPQRRRLCKDSKWVTISDLKIQAVKEICYEVALNDFRHSRQEIEALAIVKMKELC	771
+XP_025711464.1      IKMYQIPQRRRLCKDSKWVTISDLKIQAVKEICYEVALNDFRHSRQEIEALAIVKMKELC	771
+                    ************.***********************************************
+
+NM_183416           AMYGKKDPNERDSWRAVARDVWDTVGVGDEKIEDVMATGKGSTDVDDLKVHIDKLEDILQ	958
+NP_001191820.1      AMYGKKDPNERDSWRAVARDVWDTVGVGDEKIEDVMATGKGSTDVDDLKVHIDKLEDILQ	831
+XP_027452175.1      AMYGKKDPNERDSWRAVARDVWDTVGVGDEKIEDVMASGKGGTDVDDLKVHIDKLEDILQ	831
+XP_025711464.1      AMYGKKDPNERDSWRAVARDVWDTVGVGDEKIEDVMASGKGGTDVDDLKVHIDKLEDILQ	831
+                    *************************************:***.******************
+
+NM_183416           EVKKQNNMKDEEIKVLRNKMLKMEKVLPLIGSQEQKSPGSHKAKEPVGAGVSSTSENNVS	1018
+NP_001191820.1      EVKKQNNMKDEEIKVLRNKMLKMEKVLPLIGSQEQKSPGSHKAKEPVGAGVSSTSENNVS	891
+XP_027452175.1      EVKKQNNMKDEEIKVLRNKMLKMEKVLPLIGSQEQKSQGNHRAKEPVGAGVSSKSENDGS	891
+XP_025711464.1      EVKKQNNMKDEEIKVLRNKMLKMEKVLPLIGSQEQKSQGNHRAKEPVGAGVSSKSENDGS	891
+                    ************************************* *.*:***********.***: *
+
+NM_183416           KGDNGELAKEERVSQLMNGDPAFRRGRLRWMRQEQIRFKNLQQQEITKQLRRQNVPHRFI	1078
+NP_001191820.1      KGDNGELAKEERVSQLMNGDPAFRRGRLRWMRQEQIRFKNLQQQEITKQLRRQNVPHRFI	951
+XP_027452175.1      RGDSGELGKEERVSQLMNGDPAFRRGRLRWMRQEQIRFKNLQQQEIAKQLRRQNVPHRFI	951
+XP_025711464.1      RGDSGELGKEERVSQLMNGDPAFRRGRLRWMRQEQIRFKNLQQQEIAKQLRRQNVPHRFI	951
+                    :**.***.**************************************:*************
+
+NM_183416           PPENRKPRFPFKSNPKHRNSWSPGTHIIITEDEVIELRIPKDDEARKGNKEESQEKGGKG	1138
+NP_001191820.1      PPENRKPRFPFKSNPKHRNSWSPGTHIIITEDEVIELRIPKDDEARKGNKEESQEKGGKG	1011
+XP_027452175.1      PPENRKPRFPFKSNPKHRNSWSPGTHIIITEDEVIELRIPKDEDGRKGNKEESQEKGGRA	1011
+XP_025711464.1      PPENRKPRFPFKSNPKHRNSWSPGTHIIITEDEVIELRIPKDEDGRKGNKEESQEKGGRA	1011
+                    ******************************************::.*************:.
+
+NM_183416           AFKDPQFPWGSQGMRSQDHIQVSKQHINNQQQPPQLRWRSNSLNNGQPKSTRCQASASAE	1198
+NP_001191820.1      AFKDPQFPWGSQGMRSQDHIQVSKQHINNQQQPPQLRWRSNSLNNGQPKSTRCQASASAE	1071
+XP_027452175.1      PSKDPQLPWGSQGTRSQDHIQVSKQHVNTQQQPPQLRWRSNSLNNGQPKSTRCQASASSE	1071
+XP_025711464.1      PSKDPQLPWGSQGTRSQDHIQVSKQHVNTQQQPPQLRWRSNSLNNGQPKSMRCQASASSE	1071
+                      ****:****** ************:*.********************* *******:*
+
+NM_183416           SLNSHSGHPTADVQTFQAKRHIHQHRQSYCNYNTGGQLEGNAATSYQKQTDKPSHCSQFV	1258
+NP_001191820.1      SLNSHSGHPTADVQTFQAKRHIHQHRQSYCNYNTGGQLEGNAATSYQKQTDKPSHCSQFV	1131
+XP_027452175.1      SLNSHSGHPTADLQTFQAKRHIHQHRQSYCNYNTGGQLEGNAASSFQKQTDKPNHCSQFV	1131
+XP_025711464.1      SLNSHSGHPTADLQTFQAKRHIHQHRQSYCNYNTGGQLEGNAASSFQKQTDKPNHCSQFV	1131
+                    ************:******************************:*:*******.******
+
+NM_183416           TPPRMRRQFSAPNLKAGRETTV*ISYWTNLKSWWKKQTVLAHDLIWFYLWP*VLIIYIIN	1316
+NP_001191820.1      TPPRMRRQFSAPNLKAGRETTV--------------------------------------	1153
+XP_027452175.1      TPPRMRRQFSAPNLKAGRETTV--------------------------------------	1153
+XP_025711464.1      TPPRMRRQFSAPNLKAGRETTV--------------------------------------	1153
+                    **********************                                      
+
+NM_183416           INWFYIVKTKHW*KFQHLPFACIP*MGSF*NFG*SIKNSFF*NVPPFLVPN*YTYLHRLV	1370
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           PS*CKFVMFL*CL*INLTSRKTCLLVYADIQKENLISRIKCLLFINVRNWFKNNNMQLGG	1427
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           HSFGFLIHVCSLL*I*LEFS*AKTKGLQTYLAIHSFASSTQLPRLLLFCILQKTHIMVFS	1484
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           FECIRICMKFVISESINWHCVWDSVCGLHFEVQCII*HTCTQSELFTKIMPTEIPTKNLC	1543
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           SL*GGYLA*EGRGGTDMGDKATAYGSVVLLFSNS**NSEIKVNFGWAWNKGDDT**TILW	1597
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           LALVMLVDTQTRKAKS***FIVSIPHFIWLWSQFASLENPLRKMDFNGKKRIIFYIVPHL	1654
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           LSLSKSFLRGSVKSQRCPKLPDFMFWKIPKSHEIIYQTLVFQTV*KTTAKIAVSIQGSLK	1713
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           DCDYVFFSFACGHYALLEHIIFNHSIFSLPLRKYFLNAQKVASN*CFFPLKKRSFERYFC	1772
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           FHS*NS*SLQLRFYSRLDMGK*CL*WVELLR*QSPVPFGLNVLDRLLQISHFNAFCVNPV	1827
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           VLFYSSLDINVLTIPFYTQFIF*D*K**LLGLVAHAYSPSYLGG*SRRIPRAQEFWAVVH	1882
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           YASWV*VWHQYGDVPEAGNHKLASGRVNPAQVGNGAGQNSQADQ*WDLAYE*PVHCSQDN	1939
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           RVRTCL*KKKKKKKKR*YLLYYSGFNSVAKMGSHFPNLR*HRVGPYIFILTVVFSWE*MS	1995
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           YSPLVIR*YCRMKSCIIYSFTAVDCGKDYVHSDIPKNWVYICASSVNPRCPHVAEIFR*L	2053
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           KYPLISQMTRKKLTKVLLTAMYVP*CISEQMLILENNSV*IKLLN*VSY*ISN*CHAFVS	2108
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           SWYGPYYFVFCFCYCCFVIVLLCRPGCSAVAQSQLTATSASWVQAILLSQPPG*LGLQVH	2167
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           ATMPG*LLYF**RQGFTTLVRLVSNS*PQVIHLPWPPKVLRLQA*ATAPGLFVFLT*FFS	2221
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           KLKYHKAKEKWS*FKPLLYC*GIPSYYYSKVGKKCLFY*SYVMIRH*WEYRGVLINWYNF	2277
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           TKRNGIPWRVKDILFSKCKPKGIFFIPASNSF*PSELFLFSLVM**MGIVYYIEVT*SDL	2333
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           LCFRCRLTLKKKQNTEFFTPMSALKAVLLPEVT*TSCSQLLCPSALLVLCRFALMICTND	2392
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           WEAGMLPVSW*TLMKGPS*AQCKTSICPVLLEPKL**AILIIVQFMSSFPDFKICSRYS*	2447
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           LEPLLIVKCIRCCPIITVK*SFESSC**TVDFPSQFLKQQQKNA*RLSLSVRSAFSEREC	2503
+NP_001191820.1      ------------------------------------------------------------	1153
+XP_027452175.1      ------------------------------------------------------------	1153
+XP_025711464.1      ------------------------------------------------------------	1153
+                                                                                
+
+NM_183416           *FVMLKNKDLIQ*KLKSSF	2520
+NP_001191820.1      -------------------	1153
+XP_027452175.1      -------------------	1153
+XP_025711464.1      -------------------	1153
+                                       
